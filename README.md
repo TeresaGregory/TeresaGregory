@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeresaGregory
-- 👀 I’m interested in becoming a IT and Cyber Security Professional
+- 👀 I’m interested in becoming an IT and Cyber Security Professional
 - 🌱 I’m currently learning ... Python through NRAO and LSAMP summer 2022 course.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
